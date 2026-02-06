@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "intrinsicKappa"]
+	path = intrinsicKappa
+	url = https://github.com/cran/intrinsicKappa
+[submodule "unitedR"]
+	path = unitedR
+	url = https://github.com/cran/unitedR
